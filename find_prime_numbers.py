@@ -19,5 +19,3 @@ def find_prime_numbers(*args:int):
     
     print(tuple(set(prime_numbers)))
 
-
-
